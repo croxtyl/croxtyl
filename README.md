@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Owner of: furxenity.xyz<br>Creator of my npm package: npmjs.com/package/nocrasher<br>Creator of: soon new project🤔</p>
+<p align="center">Owner of: furxenity.xyz<br>Creator of my npm package: npmjs.com/package/nocrasher<br>Creator of: urlek.pl</p>
 
 ###
 
