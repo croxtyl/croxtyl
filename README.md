@@ -15,7 +15,6 @@
 ###
 
 <p align="left">https://github.com/croxtyl/pihole-blocklist / https://blocklist.croxtyl.top - Generator of blocklists from various categories for Pi-hole.<br>https://github.com/croxtyl/nocrasher - It's made by me NPM package to prevent crashes of the Node.js project.<br>https://github.com/croxtyl/web-stats - It's made by me webstats provides statistics of e.g. VPS, on web panel (currently nothing to admire).<br>https://github.com/croxtyl/slash-deleter - Clears all slash commands in discord bot.<br>https://github.com/croxtyl/mongodb-tester - Want to make sure you haven't broken connectivity with the mongodb database? Check it in a simple way.<br>https://github.com/croxtyl/minecraft-bot - Minecraft bot that walks around the server where it likes and does nothing.</p>
-###
 
 <h2 align="left">I use with</h2>
 
